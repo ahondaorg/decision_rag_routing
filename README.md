@@ -74,4 +74,10 @@ The PDFs are **not** included in this repo. Download them into `data/`.
 - This project is limited to single-turn QA. Each question is classified, retrieved, and answered independently. No chat history is passed to the decision model, the retrieval step, or the LLM. it is only displayed in the chat GUI.
 
 ## Screenshots
+![screenshot](screenshots/economy.png)
 
+![screenshot](screenshots/climate.png)
+
+![screenshot](screenshots/housing.png)
+
+![screenshot](screenshots/general.png)
