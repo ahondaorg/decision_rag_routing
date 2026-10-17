@@ -1,7 +1,7 @@
 # Routing RAG with decision model
 
 ## Description 
-Routing experiment: a decision model (e.g Jev) picks which of multiple RAG collections to retrieve from. This repository is an experimental attempt to use a decision model (e.g. `<your model>`) to route RAG retrieval across multiple collections in one PostgreSQL database. Purely technical PoC. For practical use, filtering directly in SQL (metadata / WHERE clauses) is the more realistic approach.
+Routing experiment: a decision model (e.g Jev) picks which of multiple RAG collections to retrieve from. This repository is an experimental attempt to use a decision model to route RAG retrieval across multiple collections in one PostgreSQL database. Purely technical PoC. For practical use, filtering directly in SQL (metadata / WHERE clauses) is the more realistic approach.
 
 ## Architecture
 
