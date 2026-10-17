@@ -1,0 +1,16 @@
+# document parsing
+docling
+
+# langchain stack
+langchain-core
+langchain-text-splitters
+langchain-postgres
+langchain-ollama
+langchain-openai>=1.7.0   # OpenAIDecisions (beta) requires this
+
+# database
+sqlalchemy>=2.0
+psycopg[binary] 
+
+# UI
+gradio
